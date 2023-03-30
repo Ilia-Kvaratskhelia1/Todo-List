@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Albert Sans', sans-serif;
+  font-family: 'Inter', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-family: 'Space Grotesk', sans-serif;
+  font-family: 'Space Mono', monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
